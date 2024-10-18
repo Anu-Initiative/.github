@@ -37,4 +37,3 @@ Email: [hello@anuinitiative.org](mailto:hello@anuinitiative.org)
 
 **Anu Initiative – Trusty Tech in Service of Mother Nature.**  
 © 2024 All rights reserved.  
-[Terms of Service](#) | [Privacy Policy](#)
