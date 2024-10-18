@@ -1,50 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+# Anu Initiative - Web3 in Service of Mother Nature
 
-<h1>Anu Initiative</h1>
+**Welcome to the Anu Initiative**, a Company Limited by Guarantee based in Dublin, Ireland. We are a not-for-profit organization founded by nature lovers with the goal of leveraging cutting-edge technologies to create a positive environmental impact. Our platform provides full transparency in tracking donations and contributions, ensuring that resources go directly to supporting nature-focused charities around the world.
 
-<h2>Our Mission</h2>
-<p>To provide for those that provide for Mother Earth.</p>
+## Our Mission
+To provide for those that provide for Mother Earth.
 
-<h2>Our Vision</h2>
-<p>Sustain an ecosystem in which the kindness of our community creates lasting, positive impacts for our planet through the environmentally-conscious charities of the world.</p>
+## Our Vision
+Sustain an ecosystem in which the kindness of our community creates lasting, positive impacts for our planet through the ecologically-conscious charities of the world.
 
-<h2>Our Values</h2>
-<ul>
-    <li><strong>Transparency</strong>: We are committed to open and honest communication in all our actions.</li>
-    <li><strong>Passion</strong>: We are driven by a deep love for the environment and a desire to make a positive difference.</li>
-    <li><strong>Integrity</strong>: We act with honesty and hold ourselves to the highest ethical standards.</li>
-    <li><strong>Commitment</strong>: We are dedicated to the continuous improvement of our environmental efforts.</li>
-    <li><strong>Community</strong>: We believe in the power of collaboration and seek to foster a supportive and inclusive network of changemakers.</li>
-</ul>
+## Our Values
+- **Transparency**: We believe in full accountability for all resources and actions.
+- **Passion**: Our love for nature drives everything we do.
+- **Integrity**: We are committed to honesty and ethical behavior.
+- **Commitment**: We stand by our mission and those we serve.
+- **Community**: Together, we are stronger. Our collective action can change the world.
 
-<p>These values define who we are, guiding our thoughts, actions, and behavior. They influence the way we work with each other, serve Mother Nature, and engage with the Anu Initiative community.</p>
+## About Us
+Anu Initiative is a community-driven organization where anyone can contribute to restoring the environment. Our open-source platform offers complete transparency on how funds are used, ensuring that every contribution directly supports real, tangible ecological impact. We are **not** focused on carbon credits, but on delivering genuine, measurable ecological benefits.
 
-<h2>License</h2>
-<p>The Anu Initiative Open License Agreement (AI-OLA) ensures that all software, data, and resources provided by the Anu Initiative contribute positively to environmental conservation and are used in alignment with our values.</p>
-<p>Read the full AI-OLA <a href="https://forum.anuinitiative.org/t/anu-initiative-open-license-agreement-ai-ola/80" target="_blank">here</a>.</p>
+This initiative is a **pilot for a groundbreaking product** designed for the charity sector. Our platform enables charities to fundraise using **novel methods**, bringing traditional fundraising **on-chain** for full transparency. It also connects donors directly with the **impact generated**, providing them with verifiable proof of how their contributions are making a difference in the world.
 
-<h2>Website</h2>
-<p>Visit us at <a href="https://anuinitiative.org" target="_blank">anuinitiative.org</a> for more information.</p>
+## Get Involved
+Join us in creating lasting positive impacts on the environment. To learn more, visit our website: [anuinitiative.org](https://anuinitiative.org).
 
-<h2>Support</h2>
-<p>If you have any questions or need help, feel free to reach out via <a href="mailto:hello@anuinitiative.org">hello@anuinitiative.org</a>.</p>
+**Contact Us**  
+**Anu Initiative Company Limited by Guarantee**  
+Registered in Ireland, Registration Number: 701039  
+Address: 77 Lower Camden Street, Dublin, Ireland, D02 XE80  
+Email: [hello@anuinitiative.org](mailto:hello@anuinitiative.org)  
+Phone: +353 87 450 8112  
 
-<h2>About Us</h2>
-<p>Anu Initiative Company Limited by Guarantee is registered in Ireland, with registration number 701039.</p>
-<p>Address: 77 Lower Camden Street, Dublin, Ireland, D02 XE80</p>
+---
 
-<h2>Social Media</h2>
-<p>Follow us on:</p>
-<ul>
-    <li><a href="https://twitter.com/AnuInitiative" target="_blank">Twitter</a></li>
-    <li><a href="https://www.linkedin.com/company/anuinitiative" target="_blank">LinkedIn</a></li>
-</ul>
-
-</body>
-</html>
+**Anu Initiative – Trusty Tech in Service of Mother Nature.**  
+© 2024 All rights reserved.  
+[Terms of Service](#) | [Privacy Policy](#)
