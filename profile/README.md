@@ -1,5 +1,7 @@
 # Anu Initiative - Trusty Tech in Service of Mother Nature
 
+Note: Anu Initiative is a pilot project for this toolkit that we are preparing for the Charity Sector.
+
 **Welcome to the Anu Initiative**, a Company Limited by Guarantee based in Dublin, Ireland.
 
 We are a **not-for-profit organization** founded by nature lovers to leverage cutting-edge technologies to create a positive environmental impact.
@@ -33,14 +35,6 @@ Our platform contributes to the **growth of the Web3 ecosystem** by bringing the
 ### Key Features:
 - **Smart Contract Deployment:** We deploy verifiable smart contracts that ensure traceability and integrity of funds and ecological impact reports. The contract address will be made available for audit on the [Ethereum Testnet/Mainnet].
 - **Partnerships:** We've engaged with EY, Polygon, and Microsoft to collaborate on innovations in decentralized ecological impact tracking. More details and updates on these partnerships can be found on our website and repositories.
-
-## Innovation and Activity Metrics
-
-We are focused on **innovation in the application of Web3** use cases, with a unique emphasis on non-carbon-related ecological impact. This innovation is reflected in our commitment to:
-- Providing a platform that integrates **real-time data** from verified ecological impact projects.
-- Enabling **novel fundraising mechanisms** through decentralized finance (DeFi) and **dynamic NFTs** representing donor contributions and their impact.
-
-Our project is actively maintained with contributions from multiple developers and community members, with regular commits to our repositories. We also actively respond to issues and pull requests to ensure continuous improvements and adoption.
 
 ## About Us
 Anu Initiative is a **community-driven organization** where anyone can contribute to restoring the environment. Our **open-source platform** offers transparency on how funds are used, ensuring that every contribution supports genuine, tangible ecological impact.
